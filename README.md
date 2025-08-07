@@ -5,30 +5,27 @@
 
 <div align="center">
   <a href="https://github.com/neetishbamotraa">
-  <img src="https://github-readme-stats.vercel.app/api?username=neetishbamotraa&show_icons=true&theme=tokyonight&icon_color=00FFFF&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=neetishbamotraa&show_icons=true&theme=tokyonight&icon_color=00FFFF&hide_border=true" height="180" />
   </a>
   <a href="https://github.com/neetishbamotraa">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neetishbamotraa&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&text_color=ffffff&bg_color=0d1117&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neetishbamotraa&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&text_color=ffffff&bg_color=0d1117&hide_border=true" height="180"/>
   </a>
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=neetishbamotraa&label=Profile%20Views&color=0e75b6&style=flat-square" alt="profile views" />
-  </p>
 </div>
 
----
-
-### 📬 Connect with Me
-
 <p align="left">
-  <a href="https://linkedin.com/in/neetishbamotraa" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Neetish Bamotra LinkedIn" height="40" width="40" />
+  <h3>📬 Connect with Me</h1>
+  <a href="https://linkedin.com/in/neetishbamotraa" >
+    <img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Neetish Bamotra LinkedIn" height="40"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.leetcode.com/neetishbamotraa" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Neetish Bamotra LeetCode" height="40" width="40" />
+  <a href="https://www.leetcode.com/neetishbamotraa">
+    <img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Neetish Bamotra LeetCode" height="40" />
   </a>
   <br><br><br>
-  📫 How to reach me: <strong>neetishbamotra18@gmail.com</strong>
+  
+   <p >
+    📫 How to reach me: <strong>neetishbamotra18@gmail.com</strong> <img align="right" src="https://komarev.com/ghpvc/?username=neetishbamotraa&label=Profile%20Views&color=0e75b6&style=flat-square" alt="profile views" />
+  </p>
 </p>
 
 ---
@@ -36,6 +33,7 @@
 ### 🛠️ My Tech Stack
 
 #### Languages
+
 <p align="left">
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -45,6 +43,7 @@
 </p>
 
 #### Frontend Development
+
 <p align="left">
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -54,6 +53,7 @@
 </p>
 
 #### Backend Development
+
 <p align="left">
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -61,6 +61,7 @@
 </p>
 
 #### Databases
+
 <p align="left">
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -69,6 +70,7 @@
 </p>
 
 #### AI & Machine Learning
+
 <p align="left">
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -79,6 +81,7 @@
 </p>
 
 #### Tools & Platforms
+
 <p align="left">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
