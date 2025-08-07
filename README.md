@@ -26,8 +26,8 @@
   <a href="https://www.leetcode.com/neetishbamotraa" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Neetish Bamotra LeetCode" height="40" width="40" />
   </a>
-  <br>
-  📫 How to reach me: **neetishbamotra18@gmail.com**
+  <br><br><br>
+  📫 How to reach me: <strong>neetishbamotra18@gmail.com</strong>
 </p>
 
 ---
